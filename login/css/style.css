@@ -1,0 +1,55 @@
+
+         body{
+            background-color: palevioletred;
+            color: beige;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form{
+            background-color: gray;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: lightcoral;
+            width: 300px;
+        }
+
+        h1 {
+            color: pink;
+            background-color: beige;
+        }
+
+        label {
+            background-color: beige;
+            color: pink;
+            font-size: 30px;
+        }
+
+        #userlabel {
+            font-style: oblique;
+        }
+
+        #passlabel {
+            font-style: italic;
+        }
+
+        .userbutton {
+            background-color: gray;
+            color: pink;
+            font-size: 20px;
+        }
+
+        #userforgot{
+            background-color: pink;
+            color:gray;
+        }
+
+        #userregister{
+            background-color:pink;
+            color:gray;
+        }
+    
+   
